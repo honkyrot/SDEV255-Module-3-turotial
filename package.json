@@ -1,0 +1,15 @@
+{
+  "name": "sdev255-module-3-turotial",
+  "version": "1.0.0",
+  "description": "demo purposes",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
